@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from cev-eris at https://github.com/discordia-space/CEV-Eris/blob/2b969adc2dfd3e9621bf3597c5cbffeb3ac8c9f0/icons/obj/chemical.dmi",
+  "copyright": "Taken from cmss13 at https://github.com/cmss13-devs/cmss13/blob/311e8f06c0eae7c6a0ab71ba04943c93c55850eb/icons/obj/items/chemistry.dmi, https://github.com/cmss13-devs/cmss13/blob/60ca3cddb69147cb17fcaef3b0514586292a4c55/icons/mob/humans/onmob/items_lefthand_0.dmi, https://github.com/cmss13-devs/cmss13/blob/81c7806eb705f3a6b43085056cef1be0055d8ed2/icons/mob/humans/onmob/items_righthand_0.dmi",
   "size": {
     "x": 32,
     "y": 32
@@ -9,6 +9,48 @@
   "states": [
     {
       "name": "pill_canister"
+    },
+    {
+      "name": "pill_canister1"
+    },
+    {
+      "name": "pill_canister2"
+    },
+    {
+      "name": "pill_canister3"
+    },
+    {
+      "name": "pill_canister4"
+    },
+    {
+      "name": "pill_canister5"
+    },
+    {
+      "name": "pill_canister6"
+    },
+    {
+      "name": "pill_canister7"
+    },
+    {
+      "name": "pill_canister8"
+    },
+    {
+      "name": "pill_canister9"
+    },
+    {
+      "name": "pill_canister10"
+    },
+    {
+      "name": "pill_canister11"
+    },
+    {
+      "name": "pill_canister12"
+    },
+    {
+      "name": "open"
+    },
+    {
+      "name": "closed"
     },
     {
       "name": "inhand-left",
